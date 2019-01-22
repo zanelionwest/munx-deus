@@ -1,0 +1,30 @@
+body  {
+  padding-top: 70px;
+}
+
+p {
+  text-align: center;
+}
+
+h1  {
+  text-align: center;
+
+}
+
+h3  {
+  text-align: center;
+
+}
+
+.jumbotron  {
+  background-color: #374151;
+  background: #d8d8d8;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #d3dae8;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #d3dae8;
+}
